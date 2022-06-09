@@ -1,5 +1,5 @@
 # Battery Storage
-A simple project to demo storing and fetching data in memory using java spring boot
+A simple project to demo storing and fetching data in memory using java spring boot and h2 DB
 
 # Description
 A java based project with springboot, h2 db.
@@ -61,3 +61,7 @@ Response:
 **/h2-console/**
 **User:sa
 Password:123456**
+
+**To run tests and build**
+
+mvn clean install
